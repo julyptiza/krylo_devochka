@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://julyptiza.github.io/ptichyi-roscherki/sitemap.xml

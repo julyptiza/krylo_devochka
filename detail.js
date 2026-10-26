@@ -1,0 +1,1 @@
+document.querySelector('#copy-link').addEventListener('click',async()=>{try{await navigator.clipboard.writeText(location.href);document.querySelector('#copy-status').textContent='Ссылка скопирована';}catch{document.querySelector('#copy-status').textContent='Скопируйте адрес страницы из строки браузера.';}});
