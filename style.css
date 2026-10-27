@@ -2,4 +2,4 @@
 
 .telegram-link{display:flex;width:fit-content;margin-top:20px}.about .telegram-link{margin-top:20px}
 
-.about{align-items:center;column-gap:60px}.about-portrait img{display:block;width:100%;max-width:270px;height:auto}.about-portrait .eyebrow{margin-bottom:22px}@media(max-width:650px){.about{gap:32px}.about-portrait img{max-width:240px}}
+.about{align-items:center;column-gap:60px}.about-portrait img{display:block;width:56px;height:56px;max-width:100%;border-radius:50%;object-fit:cover;object-position:50% 25%}.about-portrait .eyebrow{margin-bottom:22px}@media(max-width:650px){.about{gap:32px}.about-portrait img{width:56px;height:56px}}
